@@ -1,7 +1,7 @@
 # 📊 PDF to Excel Sales Analysis Project
 
 This project extracts sales data from a PDF file and converts it into a structured Excel dashboard.
-It includes automated cleaning, formatting, and data visualization of Nest Aero Sales Data (2013 & 2014).
+It includes automated cleaning, formatting, and data visualization of Sales Data (2013 & 2014).
 
 ## 🔍 Project Overview
 
@@ -36,7 +36,7 @@ It includes automated cleaning, formatting, and data visualization of Nest Aero 
 * Chart type: 3D Column Chart
 
 📸 Preview:
-(Place your screenshot here)
+![top3salesrep](top3_salesrep.png)
 
 ### 2️⃣ Total Sales by Region and City
 
@@ -45,16 +45,21 @@ It includes automated cleaning, formatting, and data visualization of Nest Aero 
 * City-level breakdown with bar charts
 
 📸 Preview:
-(Place screenshot)
+![Regionandcity](region_city_sales.png.png)
 
-3️⃣ Raw Data (Converted from PDF)
+### 3️⃣ Raw Data (Converted from PDF)
 
 Cleaned with Date, SalesRep, Product, Units, Price, Total Sales, City, Region
 
 Ensures accuracy for pivot table analysis
 
-📸 Preview:
-(Place screenshot)
+**Before**:
+
+![Input_data](Input_data.png)
+
+**After**:
+
+![Sales data](salesdata_sheet.png)
 
 ## 🛠 Tools Used
 
