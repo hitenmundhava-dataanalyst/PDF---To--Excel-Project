@@ -25,7 +25,7 @@ It includes automated cleaning, formatting, and data visualization of Nest Aero 
 | File                                       | Description                                         |
 | ------------------------------------------ | --------------------------------------------------- |
 | `PDF TO Excel project.xlsx`                | Final Excel workbook with dashboards & pivot tables |
-| `Nest Aero Sales Data for 2013 & 2014.pdf` | Original PDF sales data                             |
+| `Sales Data for 2013 & 2014.pdf` | Original PDF sales data                             |
 | `/Screenshots`                             | Dashboard and sheet previews                        |
 
 ## 📊 Dashboards Included
